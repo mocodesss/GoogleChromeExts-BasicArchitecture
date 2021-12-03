@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Cheesie Extension",
+  "name": "Example Extension",
   "version": "0.1",
   "content_scripts": [
     {
